@@ -1,0 +1,8 @@
+# Build generated files
+dist
+
+# Dependencies
+node_modules
+
+# OSX
+.DS_Store
